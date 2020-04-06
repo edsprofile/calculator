@@ -1,0 +1,8 @@
+#+title: Calculator README
+#+date: <2020-04-06 Mon>
+#+author: Edwin Espinoza
+
+* Summary
+Python calculator using tkinter to learn more about the library and I always
+wanted to build a simple calculator and just never got to it so I thought I
+would start it.
